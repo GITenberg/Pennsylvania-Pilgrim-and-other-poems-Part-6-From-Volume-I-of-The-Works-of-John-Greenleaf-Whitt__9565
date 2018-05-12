@@ -1,4 +1,8 @@
 _repo: Pennsylvania-Pilgrim-and-other-poems-Part-6-From-Volume-I-of-The-Works-of-John-Greenleaf-Whitt__9565
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Whittier, John Greenleaf
@@ -12,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/John_Greenleaf_Whittier
 description: The singer. - Chicago. - My birthday. - The brewing of Soma. - The robin.
   - The sisters. - Marguerite. - King Volmer and Elsie. - The three bells.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9565#Pennsylvania-Pilgrim-and-other-poems-Part-6-From-Volume-I-of-The-Works-of-John-Greenleaf-Whitt_
 gutenberg_issued: '2005-12-01'
 gutenberg_type: Text
 identifiers:
